@@ -1,2 +1,2 @@
 # devasc_team
-Hello
+This is sample repository
